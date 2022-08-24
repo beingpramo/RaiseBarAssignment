@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-## View the Project DEMO HERE ( Not optimized for Mobile View) : https://clinquant-blancmange-4cdde6.netlify.app/
+## View the Project DEMO HERE ( Not optimized for Mobile View) :
+https://clinquant-blancmange-4cdde6.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
